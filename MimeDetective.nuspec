@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AC.MimeDetective</id>
+    <version>1.0.0</version>
+    <authors>alex caroline</authors>
+    <owners>alexcaroline.cs</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/alex-caroline/Mime-Detective</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds functionality to determine files by their Magic Numbers</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Magic Number Mime FILE</tags>
+  </metadata>
+</package>
